@@ -1,5 +1,3 @@
-53 lines (39 sloc)  1.66 KB
-
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.0;
